@@ -1,0 +1,11 @@
+group Client
+Fulma.Extensions.Wikiki.PageLoader
+FSharp.Core
+Fable.Core
+Fable.Elmish.Debugger
+Fable.Elmish.React
+Fable.Elmish.HMR
+Fable.Remoting.Client
+Fulma
+Fable.FontAwesome.Free
+Fulma.Extensions.Wikiki.Quickview

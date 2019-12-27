@@ -1,0 +1,8 @@
+group Server
+    FSharp.Core
+    Saturn
+    Thoth.Json.Giraffe
+    SQLProvider
+    MySqlConnector
+    PayPal
+    System.Configuration.ConfigurationManager
